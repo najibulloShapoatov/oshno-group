@@ -1,0 +1,213 @@
+/*xl*/
+@media only screen and (max-width: 1200px){}
+
+/*lg*/
+@media only screen and (max-width: 992px){
+	
+}
+
+/*md*/
+@media only screen and (max-width: 768px){
+	#slide-site .slide-textwrapper>div{
+		padding-left: 0px;
+	}
+	#home-page .home-page-jpon h1{
+		font-size: 42px;
+	}
+	#home-page .home-page-jpon p{
+		font-size: 18px;
+		line-height: 26px
+	}
+}
+/*sm*/
+@media only screen and (max-width: 576px){
+	header .navbar-brand {
+		max-width: 150px
+	}
+	header .navbar-light .navbar-toggler{
+		transform: scale(.5);
+	}
+	#slide-site .slide-site-item .image-wrapper img{
+		width: 250%;
+		height: 100%
+	}
+	#slide-site .slide-site-item h2{
+		font-size: 30px;
+		line-height: 38px;
+	}
+	#slide-site .slide-site-item p{
+		font-size: 16px;
+		line-height: 22px;
+	}
+	#home-page h1{
+		font-size: 30px;
+		line-height: 38px;
+	}
+	footer h1{
+		font-size: 30px;
+		line-height: 38px;
+	}
+
+	#oshno-card .oshno-card-item>div h3{
+		font-size: 20px;
+	}
+	#oshno-card .oshno-card-item>div p{
+		font-size: 14px;
+		line-height: 26px
+	}
+	#home-page .home-page-jpon h1{
+		font-size: 36px;
+	}
+	#home-page .home-page-jpon{
+		background-size: 200% 100%
+	}
+	.news-page .news-item p{
+		font-weight: 500;
+		font-size: 16px;
+		line-height: 22px;
+	}
+	#oshno-card .oshno-card-item>div h4{
+		font-size: 16px;
+	}
+	#services h1{
+		font-size: 30px;
+		line-height: 35px
+	}
+	#crp-clients h1{
+		font-size: 30px;
+		line-height: 35px
+	}
+	#crp-clients .form-wrapper p{
+		font-weight: 500;
+		color: black;
+		font-size: 16px;
+		line-height: 22px;
+	}
+	content h1.h1{
+		font-size: 30px;
+		line-height: 35px;
+	}
+	#aboute-us .image-wrapper{
+		height: 250px
+	}
+	#aboute-us .text-wrapper p{
+		font-size: 14px;
+		line-height: 22px
+	}
+	#vacancies-detied .text-wrapper p{
+		font-size: 14px;
+		line-height: 22px
+	}
+	#vacancies-detied .vacancies-detied-form{
+		padding: 30px 20px;
+	}
+	#partners p{
+		font-size: 14px;
+		line-height: 22px
+	}
+	#contacts .text-wrapper p{
+		font-size: 14px;
+		line-height: 22px
+	}
+	#domens h6{
+		font-size: 	16px;
+	}
+	#domens .table td, #domens .table thead th{
+		font-size: 	16px;
+	}
+	#news-detyled .text-wrapper p{
+		font-size: 14px;
+		line-height: 22px
+	}
+	#news-detyled .image-wrapper{
+		height: 350px
+	}
+	#news-detyled small{
+		font-size: 14px;
+	}
+	#domens-registratin h3{
+		font-size: 16px;
+	}
+	#domens-registratin form .form-control{
+		font-size: 14px;
+	}
+	#my-static-form form{
+		padding: 20px 40px
+	}
+	#master-call .image-wrapper{
+		height: 250px
+	}
+	#master-call .text-wrapper p{
+		font-size: 14px;
+		line-height: 22px
+	}
+	#bring-friend #my-static-form form .bring-friend-form{
+		padding: 20px 40px
+	}
+	#bring-friend .text-wrapper p{
+		font-size: 14px;
+		line-height: 22px
+	}
+}
+@media only screen and (max-width: 320px){
+	#slide-site .slide-site-item h2{
+		font-size: 26px;
+		line-height: 38px;
+	}
+	#slide-site .slide-site-item p{
+		font-size: 16px;
+		line-height: 22px;
+	}
+	#home-page h1{
+		font-size: 26px;
+		line-height: 36px;
+	}
+	footer h1{
+		font-size: 26px;
+		line-height: 36px;
+	}
+	#home-page .home-page-jpon h1{
+		font-size: 28px;
+		line-height: 42px;
+	}
+	#home-page .home-page-jpon p{
+		font-size: 16px;
+		line-height: 26px
+	}
+	#home-page .home-page-jpon p small{
+		font-size: 14px;
+	}
+	#home-page .home-page-jpon{
+		background-size: 300% 100%
+	}
+	#services h1{
+		font-size: 26px;
+		line-height: 30px
+	}
+	#crp-clients h1{
+		font-size: 26px;
+		line-height: 30px
+	}
+	#crp-clients .form-wrapper p{
+		font-weight: 500;
+		color: black;
+		font-size: 14px;
+		line-height: 20px;
+	}
+	content h1.h1{
+		font-size: 26px;
+		line-height: 30px
+	}
+	#contacts .map-wrapper{
+		height: 350px
+	}
+	#news-detyled .image-wrapper{
+		height: 300px
+	}
+	#my-static-form form{
+		padding: 20px;
+	}
+	#bring-friend #my-static-form form .bring-friend-form{
+		padding: 20px
+	}
+}
